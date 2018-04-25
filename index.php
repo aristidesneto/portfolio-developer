@@ -1,5 +1,5 @@
 <?php
-$HOME = 'https://aristidesneto.com.br';
+$HOME = 'https://www.aristidesneto.com.br';
 ?>
 <!DOCTYPE html>
 <!--[if IE 8]> <html lang="pt-br" class="ie8"> <![endif]-->  
